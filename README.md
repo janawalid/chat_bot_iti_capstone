@@ -1,4 +1,4 @@
-# RAG Document Assistant — ML Concepts (Core Track)
+# RAG Document Assistant — ML Concepts 
 
 A Retrieval-Augmented Generation (RAG) web application that answers questions about
 machine learning concepts, grounded in a collection of Wikipedia articles, using a
