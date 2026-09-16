@@ -1,0 +1,7 @@
+{
+  "chunk_size": 800,
+  "chunk_overlap": 100,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "ollama_model": "llama3.2",
+  "collection_name": "ml_docs"
+}

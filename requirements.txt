@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+chromadb
+sentence-transformers
+pypdf
+ollama
+python-dotenv
+wikipedia
