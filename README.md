@@ -257,8 +257,8 @@ detailed prompt instruction could improve.
 ## Screenshots
 <img width="1535" height="730" alt="image" src="https://github.com/user-attachments/assets/f9b5a017-2679-4b25-9d26-fbc95e52349f" />
 
-# out of scope
+### out of scope
 <img width="1535" height="717" alt="image" src="https://github.com/user-attachments/assets/e95eee1c-79f7-420f-9d86-282c944ca8b9" />
 
-# side talk and typos
+### side talk and typos
 <img width="1534" height="702" alt="image" src="https://github.com/user-attachments/assets/bdce9ca0-8f6a-445b-ab50-826f55e9bdcf" />
